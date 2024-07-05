@@ -13,6 +13,7 @@ Bu proje, çeşitli Telegram mini oyun botlarını yönetmenize olanak tanır. P
 - [Örnek Resim](#örnek-resim)
 
 ## Özellikler 🌟
+
 - 🎮 **Skript Yönetimi**: Farklı oyun botlarını yükleyebilir, başlatabilir, durdurabilir ve loglarını görüntüleyebilirsiniz.
 - 🌐 **Bağlantılar**: Her bot için ilgili Telegram bot bağlantılarını içerir.
 - 🖥️ **Çoklu İşlem Yönetimi**: Her bir bot ayrı bir süreç olarak çalıştırılır ve bağımsız olarak yönetilir.
@@ -65,8 +66,16 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 ## Örnek Resim 🌠
 
-![Örnek Görüntü]([url=https://hizliresim.com/9fzcc0q][img]https://i.hizliresim.com/9fzcc0q.png[/img])
+![Örnek Görüntü](https://hizliresim.com/qb3jqj5)
+![Örnek Görüntü](https://hizliresim.com/qb3jqj5)
+![Örnek Görüntü](https://hizliresim.com/kls5zh8)
+![Örnek Görüntü](https://hizliresim.com/31v6q9r)
+![Örnek Görüntü](https://hizliresim.com/h61nr03)
+![Örnek Görüntü](https://hizliresim.com/6fspttw)
 
 ---
 
-**Made with ❤ by @Fridibuck** 💖
+**Made with 💖 by @Fridibuck** 
+
+---
+
