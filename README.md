@@ -65,7 +65,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 ## Örnek Resim 🌠
 
-![Örnek Görüntü](https://i.imgur.com/XYZ123.gif)
+![Örnek Görüntü]([url=https://hizliresim.com/9fzcc0q][img]https://i.hizliresim.com/9fzcc0q.png[/img])
 
 ---
 
