@@ -67,11 +67,11 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 ## Örnek Resim 🌠
 
 ![Örnek Görüntü](https://imgur.com/w3oqVyA.png)
-![Örnek Görüntü](https://hizliresim.com/qb3jqj5)
-![Örnek Görüntü](https://hizliresim.com/kls5zh8)
-![Örnek Görüntü](https://hizliresim.com/31v6q9r)
-![Örnek Görüntü](https://hizliresim.com/h61nr03)
-![Örnek Görüntü](https://hizliresim.com/6fspttw)
+![Örnek Görüntü](https://imgur.com/r1R8xwr.png)
+![Örnek Görüntü](https://imgur.com/hfM2Zcj.png)
+![Örnek Görüntü](https://imgur.com/QcEZrSd.png)
+![Örnek Görüntü](https://imgur.com/PhQcNZv.png)
+![Örnek Görüntü](https://imgur.com/fBuIMhm.png)
 
 ---
 
