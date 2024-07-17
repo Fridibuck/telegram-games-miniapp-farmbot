@@ -30,7 +30,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 2. Proje dosyalarını indirin veya klonlayın:
     ```bash
-    git clone https://github.com/fridibuck/telegram-mini-oyunlar-botu.git
+    git clone https://github.com/Fridibuck/telegram-games-miniapp-farmbot.git
     ```
 
 3. Proje dizinine gidin:
